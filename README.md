@@ -28,7 +28,7 @@ Este jogo foi desenvolvido como parte das aulas do curso oferecido pela **Alura*
 ---
 
 ## 🎲 Como Jogar
-1. **Acesse <a href="https://jogo-alpha-blush.vercel.app/" rel="nofollow">Jogo Do Número Secreto</a> 
+1. **Acesse** <a href="https://jogo-alpha-blush.vercel.app/" rel="nofollow">Jogo Do Número Secreto</a> 
 2. Digite um número entre **1 e 10** na interface do jogo.  
 3. Fique atento às dicas fornecidas pelo sistema.  
 4. Continue tentando até descobrir o **Número Secreto**!  
